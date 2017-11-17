@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Thu Nov 16 16:04:02 2017
+# Process ID: 10776
+# Current directory: D:/MDH/DVA452/full_adder/full_adder.runs/synth_1
+# Command line: vivado.exe -log full_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source full_adder.tcl
+# Log file: D:/MDH/DVA452/full_adder/full_adder.runs/synth_1/full_adder.vds
+# Journal file: D:/MDH/DVA452/full_adder/full_adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder.tcl -notrace
